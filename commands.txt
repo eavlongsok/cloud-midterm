@@ -123,7 +123,7 @@ APP SERVER GROUP
 
 DATABASE SERVER GROUP
   Inbound: SSH, MySQL
-  Outbound: None
+  Outbound: MySQL
 
   TEST BY TURNING OFF MYSQL
 
